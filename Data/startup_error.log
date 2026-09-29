@@ -1,0 +1,16 @@
+﻿Al Fajar Studio startup error
+Date: 2026-09-26 13:19:18
+
+Message:
+The term 'false' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+
+Line:
+3266
+
+Position:
+At E:\Al Fajar Studio\Al_Fajar_Studio_GUI.ps1:3266 char:25
++     $form.MinimizeBox = false
++                         ~~~~~
+
+Script:
+E:\Al Fajar Studio\Al_Fajar_Studio_GUI.ps1
